@@ -1,11 +1,11 @@
-# SNG-41007
+# SNG-41007 Autumn 2019
 
 Homework solutions for Pattern Recognition and Machine Learning course at Tampere University. The data is provided. For more info about the tasks visit the official [web page](http://www.cs.tut.fi/courses/SGN-41006/) of the course
 
 ## Ex1
 
 Task 1 - A simple matplotlib plot \
-Task 2 - Fix an image with uneven brightning using a Gaussian \
+Task 2 - Fix an image with uneven brightening using a Gaussian \
 Task 3 - Estimate sinusoidal parameters 
 
 ## Ex2
@@ -15,7 +15,7 @@ Task 2 - Train sklearn classifiers
 
 ## Ex3
 
-Task 1 - Load a dataset of images, split to training and testing \
+Task 1 - Load a dataset of images and split them into training and testing \
 Task 2 - Train classifiers for the GTSRB task \
 Task 3 - Train ensemble methods with the GTSRB data
 
