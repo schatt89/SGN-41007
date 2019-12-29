@@ -1,6 +1,6 @@
 # SNG-41007 Autumn 2019
 
-Homework solutions for Pattern Recognition and Machine Learning course at Tampere University. The data is provided. For more info about the tasks visit the official [web page](http://www.cs.tut.fi/courses/SGN-41006/) of the course
+Homework solutions for Pattern Recognition and Machine Learning course at Tampere University. The data and the tasks themselves are provided. For more info about the course please visit the official [web page](http://www.cs.tut.fi/courses/SGN-41006/). 
 
 ## Ex1
 
